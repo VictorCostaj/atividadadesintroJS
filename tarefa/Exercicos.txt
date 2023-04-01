@@ -1,0 +1,13 @@
+
+- Utilizando os conceitos aprendidos sobre Javascript desenvolva as soluções para os seguintes problemas.
+1 - Desenvolva um algoritmo que transforma a idade de uma pessoa expressa em anos, meses e dias e no final dê a idade da pessoa expressa em dias.
+OBS: Considere que 1 ano possui 365 dias e 1 mês possui 30 dias.
+
+2 - Escreva um algoritmo para calcular a porcentagem qualquer de um número qualquer (Ex: 30% de 50)
+OBS: Pode criar as variáveis e atribuir valores fixos para elas. O resultado deve ser o correto para os valores dados às variáveis criadas e atribuídas.
+
+3 - Escreva um algoritmo que converta uma temperatura de Celsius para Fahrenheit (Ex: 30°C = x°F)
+OBS: Pode criar as variáveis e atribuir valores fixos para elas. O resultado deve ser o correto para os valores dados às variáveis criadas e atribuídas.
+
+4 - Escreva um algoritmo que converta uma temperatura de Fahrenheit para Celsius (Ex: 42°F = x°C)
+OBS: Pode criar as variáveis e atribuir valores fixos para elas. O resultado deve ser o correto para os valores dados às variáveis criadas e atribuídas.
